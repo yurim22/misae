@@ -1,6 +1,28 @@
 .App {
   text-align: center;
+  font-family: 'Black Han Sans', sans-serif;
+  background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
 }
+
+.form-inline{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-group-item {
+  background-color: #b490cac9;
+}
+
+.list{
+  margin-bottom: 20px;
+  float: left;
+  border: 1px solid #bcbcbc;
+  min-width: 100%;
+}
+/* .listofsido {
+  text-align: left;
+} */
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

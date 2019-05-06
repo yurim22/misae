@@ -1,0 +1,18 @@
+.weather{
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(71,71,71);
+  margin: 30px;
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background: rgba(217, 222, 230, 0.897);
+  align-items: center;
+  min-width: 40vh;
+  min-height: 40vh;
+}
+/* .image{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+} */

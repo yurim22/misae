@@ -1,0 +1,9 @@
+.container {
+  margin: 20px auto;
+}
+
+@media (max-width: 768px) {
+  .Wrapper {
+      width: 90%;    
+  }
+}
