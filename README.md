@@ -1,3 +1,8 @@
+# 미세먼지 알림 서비스
+## <Oh, My Ssul? : 오늘 마스크 쓸까요?>
+
+자세한 설명은 pdf 파일 참고해주세요!! &#128585;
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
